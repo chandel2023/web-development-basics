@@ -1,10 +1,10 @@
-# Web Development Projects
+Web Development Projects
 
 This repository contains multiple frontend projects built using HTML, CSS, and JavaScript. The purpose of these projects is to demonstrate core web development concepts, UI structuring, and basic interactivity.
 
-## Projects
+Projects
 
-### 1. Calculator
+1. Calculator
 A basic calculator application that performs arithmetic operations such as addition, subtraction, multiplication, and division.
 
 Key features:
@@ -15,7 +15,7 @@ Key features:
 Tech stack:
 HTML, CSS, JavaScript
 
-### 2. Online Learning Platform (Kaksha)
+2. Online Learning Platform (Kaksha)
 A multi-section educational website interface designed to simulate an online learning platform.
 
 Key features:
@@ -27,7 +27,7 @@ Key features:
 Tech stack:
 HTML, CSS
 
-### 3. Course Registration Form
+3. Course Registration Form
 A structured form interface for enrolling in courses.
 
 Key features:
@@ -38,7 +38,7 @@ Key features:
 Tech stack:
 HTML, CSS
 
-### 4. Portfolio Website
+4. Portfolio Website
 A personal portfolio website showcasing profile, skills, projects, and contact details.
 
 Key features:
@@ -63,12 +63,8 @@ HTML, CSS, JavaScript
 
 1. Clone the repository:
    git clone https://github.com/your-username/web-development-basics.git
-
 2. Open any project folder
-
 3. Run the HTML file in a browser
-
----
 
 ## Improvements Planned
 
