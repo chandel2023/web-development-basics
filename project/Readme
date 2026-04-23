@@ -1,0 +1,78 @@
+# Web Development Projects
+
+This repository contains multiple frontend projects built using HTML, CSS, and JavaScript. The purpose of these projects is to demonstrate core web development concepts, UI structuring, and basic interactivity.
+
+## Projects
+
+### 1. Calculator
+A basic calculator application that performs arithmetic operations such as addition, subtraction, multiplication, and division.
+
+Key features:
+- Clear (AC) and delete (DE) functionality  
+- Decimal support  
+- Interactive button-based input  
+
+Tech stack:
+HTML, CSS, JavaScript
+
+### 2. Online Learning Platform (Kaksha)
+A multi-section educational website interface designed to simulate an online learning platform.
+
+Key features:
+- Navigation bar with sections (Home, Courses, About, Contact)  
+- Course listing section  
+- Feature highlights (mock tests, doubt solving, etc.)  
+- Footer with social media links  
+
+Tech stack:
+HTML, CSS
+
+### 3. Course Registration Form
+A structured form interface for enrolling in courses.
+
+Key features:
+- Input fields (name, email, password, phone)  
+- Radio buttons, dropdown, and checkbox  
+- Styled UI with focus and hover effects  
+
+Tech stack:
+HTML, CSS
+
+### 4. Portfolio Website
+A personal portfolio website showcasing profile, skills, projects, and contact details.
+
+Key features:
+- About section and skills visualization  
+- Project links and resume access  
+- Typing animation using JavaScript  
+- Work experience timeline  
+
+Tech stack:
+HTML, CSS, JavaScript
+
+## Concepts Covered
+
+- HTML structure and semantic elements  
+- CSS layout using Flexbox  
+- Responsive design basics  
+- JavaScript DOM manipulation  
+- Event handling  
+- UI/UX design fundamentals  
+
+## How to Run
+
+1. Clone the repository:
+   git clone https://github.com/your-username/web-development-basics.git
+
+2. Open any project folder
+
+3. Run the HTML file in a browser
+
+---
+
+## Improvements Planned
+
+- Add proper JavaScript validation in forms  
+- Improve responsiveness for all screen sizes  
+- Replace unsafe eval usage in calculator  
+- Deploy projects for live access    
